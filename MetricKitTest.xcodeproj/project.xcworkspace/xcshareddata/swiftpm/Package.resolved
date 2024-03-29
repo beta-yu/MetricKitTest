@@ -1,0 +1,15 @@
+{
+  "originHash" : "aca8c0cdc0f60643d5b1062f203f026ef7b96d87dd132aaaf5fce780bc015cf8",
+  "pins" : [
+    {
+      "identity" : "meter",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ChimeHQ/Meter",
+      "state" : {
+        "revision" : "e5b6389257849a4812333890883052672b818d79",
+        "version" : "0.5.1"
+      }
+    }
+  ],
+  "version" : 3
+}
